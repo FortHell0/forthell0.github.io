@@ -13,6 +13,7 @@
 
         <p class="red">Hello!</p>
         <img src="Image1.jpg" alt="fat man" style="height:200px;width:200px">
+        Your IP Address is: <? echo $_SERVER["REMOTE_ADDR"]; ?>
 
         <ul>
             <li>Hello</li>
